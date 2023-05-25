@@ -8,11 +8,15 @@
 
 - 财务：
 
+- 场务&主持：
+
 - 嘉宾联系：
 
 - 活动宣传（网站）：
 
 - 活动宣传（微信公众号）：
+
+### Acknowledgments · 鸣谢
 
 <!--
 **Biomed-Reunion/Biomed-Reunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
