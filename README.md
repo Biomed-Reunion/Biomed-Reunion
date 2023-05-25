@@ -1,4 +1,18 @@
-### Hi there 👋
+# 2023年清华生物医药海外校友聚会组委会
+
+### About us · 关于我们
+
+- 总召集：
+
+- 顾问：
+
+- 财务：
+
+- 嘉宾联系：
+
+- 活动宣传（网站）：
+
+- 活动宣传（微信公众号）：
 
 <!--
 **Biomed-Reunion/Biomed-Reunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
