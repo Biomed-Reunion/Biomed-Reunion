@@ -18,6 +18,7 @@
  
 ### Acknowledgments · 鸣谢
 
+场地协力：[Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 <!--
 **biomed-reunion/biomed-reunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
