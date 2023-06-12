@@ -25,7 +25,7 @@
  
 ### Acknowledgments · 鸣谢
 
-- 宣传协力：段媛慧（清华大学生命科学学院院机关校友事务）
+- 宣传协力：段媛慧（清华大学生命科学学院机关校友办公室）
 
 - 场地协力：[Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
