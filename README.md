@@ -1,8 +1,8 @@
 # Tsinghua BioMed Reunion | 2023
 
-**2023年清华生物医药北美校友聚会活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io)**
+**2023年清华生物医药北美校友聚会活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io/)**
 
-<img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/1ceec893-17f7-4881-93cb-801bfc9aefa2" style="width: 220px">
+<img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/1ceec893-17f7-4881-93cb-801bfc9aefa2" style="width: 230px">
 
 ### About us · 组委会志愿者分工
 
