@@ -2,7 +2,7 @@
 
 **活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io)**
 
-<img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/43bc8738-35b7-4dc0-b790-0804ec90ec01" style="width: 285px">
+<img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/1ceec893-17f7-4881-93cb-801bfc9aefa2" style="width: 285px">
 
 ### About us · 组委会志愿者分工
 
