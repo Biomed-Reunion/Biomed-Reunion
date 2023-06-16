@@ -6,7 +6,7 @@
 
 **微信公众号：**
 
-<img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/1ceec893-17f7-4881-93cb-801bfc9aefa2" style="width: 230px">
+<img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/5e760643-adb0-4371-90c7-6c66010c1cc5" style="width: 230px">
 
 ### About us · 组委会志愿者分工
 
