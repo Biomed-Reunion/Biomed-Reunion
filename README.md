@@ -2,6 +2,8 @@
 
 活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io)
 
+<img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/43bc8738-35b7-4dc0-b790-0804ec90ec01" style="width: 325px">
+
 ### About us · 组委会志愿者分工
 
 - 顾问：梁泽偲（08\*），孙沁雨（08），赵毓（09），盛心磊（09），丁鸿绪（09），杨天放（10），范潇（10）
