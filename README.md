@@ -1,6 +1,6 @@
 # 2023年清华生物医药北美校友聚会
 
-活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io)
+**活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io)**
 
 <img src="https://github.com/biomed-reunion/biomed-reunion/assets/18239347/43bc8738-35b7-4dc0-b790-0804ec90ec01" style="width: 285px">
 
