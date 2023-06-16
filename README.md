@@ -1,5 +1,7 @@
 # 2023年清华生物医药北美校友聚会
 
+活动官网：[https://biomed-reunion.github.io](https://biomed-reunion.github.io)
+
 ### About us · 组委会志愿者分工
 
 - 顾问：梁泽偲（08\*），孙沁雨（08），赵毓（09），盛心磊（09），丁鸿绪（09），杨天放（10），范潇（10）
@@ -29,7 +31,7 @@
 
 - 场地协力：[Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
-<a href="https://biomed-reunion.github.io"><img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/d8b06d39-6114-42cd-a13d-e41a017e6cc9" alt="Banner"></a>
+<img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/d8b06d39-6114-42cd-a13d-e41a017e6cc9" alt="Banner">
 
 <!--
 **biomed-reunion/biomed-reunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
