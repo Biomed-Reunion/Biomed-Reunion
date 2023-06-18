@@ -4,7 +4,7 @@
 
 **[https://biomed-reunion.github.io/](https://biomed-reunion.github.io/)**
 
-**微信公众号：**
+**微信公众号：THUBioMed北美校友聚会**
 
 <img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/5e760643-adb0-4371-90c7-6c66010c1cc5" style="width: 240px">
 
