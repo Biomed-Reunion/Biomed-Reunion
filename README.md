@@ -1,6 +1,6 @@
 # Tsinghua BioMed Reunion | 2023
 
-**2023年清华生物医药北美校友聚会活动官网:**
+**2023年清华生物医药北美校友聚会官方网站:**
 
 **[https://biomed-reunion.github.io/](https://biomed-reunion.github.io/)**
 
