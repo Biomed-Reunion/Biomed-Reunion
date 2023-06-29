@@ -42,7 +42,7 @@
 
 - 场地协力：[Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
-<img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/d8b06d39-6114-42cd-a13d-e41a017e6cc9" alt="Banner">
+<img src="banner-short.png" alt="Banner">
 
 <!--
 **biomed-reunion/biomed-reunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
