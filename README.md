@@ -1,14 +1,10 @@
 # Tsinghua BioMed Reunion | 2023
 
-**2023年清华生物医药北美校友聚会官方网站:**
+| 官方网站 | 微信公众号 | 联系邮箱 |
+| --- | --- | --- |
+| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | &nbsp; &nbsp; &nbsp; THUBioMed北美校友聚会<br><img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/5e760643-adb0-4371-90c7-6c66010c1cc5" style="width: 240px"> | biology@tsinghua.org |
 
-**[https://biomed-reunion.github.io/](https://biomed-reunion.github.io/)**
-
-**微信公众号：THUBioMed北美校友聚会**
-
-<img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/5e760643-adb0-4371-90c7-6c66010c1cc5" style="width: 240px">
-
-### About us · 组委会志愿者分工
+### About us · 2023年清华生物医药北美校友聚会组委会
 
 - 顾问：梁泽偲（08\*），孙沁雨（08），赵毓（09），盛心磊（09），丁鸿绪（09），杨天放（10），范潇（10）
 
