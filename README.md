@@ -2,7 +2,7 @@
 
 | 官方网站 | 微信公众号 | 联系邮箱 |
 | --- | --- | --- |
-| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | <img src="https://github.com/biomed-reunion/biomed-reunion/assets/131603076/5e760643-adb0-4371-90c7-6c66010c1cc5" style="width: 15em" alt="THUBioMed北美校友聚会"> | biology@tsinghua.org |
+| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | THUBioMed北美校友聚会 | biology@tsinghua.org |
 
 ### About us · 2023年清华生物医药北美校友聚会组委会
 
