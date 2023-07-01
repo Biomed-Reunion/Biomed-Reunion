@@ -36,7 +36,7 @@
 
 - 宣传协力：段媛慧（清华大学生命科学学院机关校友办公室）
 
-- 纪念品定制协力：宋宇寰（清华大学美术学院12级校友）
+- 纪念品设计与定制顾问：宋宇寰（清华大学美术学院12级校友）
 
 - 场地协力：[Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
