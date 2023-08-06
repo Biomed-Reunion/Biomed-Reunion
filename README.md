@@ -40,6 +40,8 @@
 
 - 场地协力：[Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
+- 财务协力：北加州清华校友会
+
 <img src="banner-short.png" alt="Banner">
 
 <!--
