@@ -2,7 +2,7 @@
 
 | 官方网站 | 微信公众号 | 联系邮箱 |
 | --- | --- | --- |
-| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | THUBioMed北美校友聚会 | biology@tsinghua.org |
+| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | [THUBioMed北美校友聚会](https://raw.githubusercontent.com/biomed-reunion/biomed-reunion.github.io/master/assets/Official-Account-QR.png) | biology@tsinghua.org |
 
 ### 2023年清华生物医药北美校友聚会组委会
 
@@ -42,6 +42,8 @@
 - 宣传协力：段媛慧（清华大学生命科学学院校友与发展办公室），王燎腾（清华大学生物科学与技术系92级校友、“北美清华生医药学院校友群”微信群群主）
 
 - 纪念品设计与定制顾问：宋宇寰（清华大学美术学院12级校友）
+
+- 活动赞助：[百奥赛图](https://biocytogen.com/)
 
 <img src="banner-short.png" alt="Banner">
 
