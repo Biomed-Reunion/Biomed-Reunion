@@ -41,7 +41,9 @@
 
 - 纪念品设计与定制顾问：宋宇寰（清华大学美术学院12级校友）
 
-- 活动赞助：[百奥赛图](https://biocytogen.com/)
+- 企业赞助：[百奥赛图](https://biocytogen.com/)
+
+- 个人赞助：孙中平（电子82、生研87）&廖国娟（生研86）
 
 <img src="banner-short.png" alt="Banner">
 
