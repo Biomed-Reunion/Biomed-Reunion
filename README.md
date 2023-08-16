@@ -33,6 +33,7 @@
 ### 协办
 
 - 北加州清华校友会
+
 - [Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
 ### 鸣谢
@@ -41,9 +42,13 @@
 
 - 纪念品设计与定制顾问：宋宇寰（清华大学美术学院12级校友）
 
-- 企业赞助：[百奥赛图](https://www.biocytogen.com.cn/)
+- 活动赞助：
 
-- 个人赞助：孙中平（清华大学电子系82级、生研87级校友）与廖国娟（清华大学生研86级校友）
+  - 钻石级：[Taimei Technology](href="https://prod.taimei.com/en/)
+   
+  - 铂金级：[百奥赛图](https://www.biocytogen.com.cn/)，[GenScript](https://www.genscript.com/)，孙中平（清华大学电子系82级、生研87级校友）与廖国娟（清华大学生研86级校友）
+ 
+  - 黄金级：[Superstring Capital Management](https://www.superstringcap.com/)
 
 <img src="banner-short.png" alt="Banner">
 
