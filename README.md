@@ -44,7 +44,7 @@
 
 - 活动赞助：
 
-  - 钻石级：[Taimei Technology](href="https://prod.taimei.com/en/)
+  - 钻石级：[Taimei Technology](https://prod.taimei.com/en/)
    
   - 铂金级：[百奥赛图](https://www.biocytogen.com.cn/)，[GenScript](https://www.genscript.com/)，孙中平（清华大学电子系82级、生研87级校友）与廖国娟（清华大学生研86级校友）
  
