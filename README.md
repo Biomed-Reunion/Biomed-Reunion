@@ -36,17 +36,21 @@
 
 - [Association of Chinese Students and Scholars at UCSF](https://ucsf.campusgroups.com/acss/home/)
 
-### 鸣谢
+### 特别鸣谢
+
+- 活动赞助：
+
+  - 钻石级赞助：[Taimei Technology](https://prod.taimei.com/en/)
+ 
+  - 铂金级赞助：[百奥赛图](https://www.biocytogen.com.cn/)，[GenScript](https://www.genscript.com/)，孙中平（清华大学电子系82级、生研87级校友）与廖国娟（生研86级校友）
+ 
+  - 黄金级赞助：郭霆（生物系01级校友）
+ 
+  - 友情赞助：丁霄哲（生命学院10级校友）
 
 - 宣传协力：段媛慧（清华大学生命科学学院校友与发展办公室），王燎腾（清华大学生物科学与技术系92级校友、“北美清华生医药学院校友群”微信群群主）
 
 - 纪念品设计与定制顾问：宋宇寰（清华大学美术学院12级校友）
-
-- 活动赞助：
-
-  - 钻石级：[Taimei Technology](https://prod.taimei.com/en/)
-   
-  - 铂金级：[百奥赛图](https://www.biocytogen.com.cn/)，[GenScript](https://www.genscript.com/)，孙中平（清华大学电子系82级、生研87级校友）与廖国娟（清华大学生研86级校友）
 
   <!--
   - 黄金级：[Superstring Capital Management](https://www.superstringcap.com/)
