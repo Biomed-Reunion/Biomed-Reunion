@@ -44,7 +44,7 @@
  
   - 铂金级赞助：[百奥赛图](https://www.biocytogen.com.cn/)，[GenScript](https://www.genscript.com/)，孙中平（清华大学电子系82级、生研87级校友）与廖国娟（生研86级校友）
  
-  - 黄金级赞助：[Superstring Capital Management](https://www.superstringcap.com/)
+  - 黄金级赞助：[Superstring Capital Management LP](https://www.superstringcap.com/)
  
   - 友情赞助：匿名校友
 
