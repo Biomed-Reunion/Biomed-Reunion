@@ -44,17 +44,13 @@
  
   - 铂金级赞助：[百奥赛图](https://www.biocytogen.com.cn/)，[GenScript](https://www.genscript.com/)，孙中平（清华大学电子系82级、生研87级校友）与廖国娟（生研86级校友）
  
-  - 黄金级赞助：匿名校友
+  - 黄金级赞助：[Superstring Capital Management](https://www.superstringcap.com/)
  
   - 友情赞助：匿名校友
 
 - 宣传协力：段媛慧（清华大学生命科学学院校友与发展办公室），王燎腾（清华大学生物科学与技术系92级校友、“北美清华生医药学院校友群”微信群群主）
 
 - 纪念品设计与定制顾问：宋宇寰（清华大学美术学院12级校友）等
-
-  <!--
-  - 黄金级：[Superstring Capital Management](https://www.superstringcap.com/)
-  -->
 
 <img src="banner-short.png" alt="Banner">
 
