@@ -1,8 +1,8 @@
 # Tsinghua BioMed Reunion | 2023
 
-| 官方网站 | 微信公众号 | 联系邮箱 |
-| --- | --- | --- |
-| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | [THUBioMed北美校友聚会](https://raw.githubusercontent.com/biomed-reunion/biomed-reunion.github.io/master/assets/Official-Account-QR.png) | biology@tsinghua.org |
+| 官方网站 | 微信公众号 | 联系邮箱 | 个人捐赠链接 |
+| --- | --- | --- |  --- |
+| [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | [THUBioMed北美校友聚会](https://raw.githubusercontent.com/biomed-reunion/biomed-reunion.github.io/master/assets/Official-Account-QR.png) | biology@tsinghua.org | [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/PayPal.png" alt="Tsinghua Association of Alumni-Northern California" style="width=1em;">](https://www.paypal.com/donate/?hosted_button_id=NHV4AEGKVCE6L) |
 
 ### 2023年清华生物医药北美校友聚会组委会
 
