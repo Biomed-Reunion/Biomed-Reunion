@@ -4,7 +4,7 @@
 | --- | --- | --- |  --- |
 | [https://biomed-reunion.github.io/](https://biomed-reunion.github.io/) | [THUBioMed北美校友聚会](https://raw.githubusercontent.com/biomed-reunion/biomed-reunion.github.io/master/assets/Official-Account-QR.png) | biology@tsinghua.org | [PayPal](https://www.paypal.com/donate/?hosted_button_id=NHV4AEGKVCE6L) [**请务必添加备注“BioMed Reunion”**；如果您希望匿名（ID不出现在致谢名单中），请同时备注]|
 
-\* 北加州清华校友会管理本年度聚会的捐款，可以为您的捐赠开具tax exempt letter用于报税。
+\* 北加州清华校友会负责管理本年度聚会的捐款，可以为您的捐赠开具证明用于报税。
 
 <br>
 
